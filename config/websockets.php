@@ -27,8 +27,6 @@ return [
             'name' => env('WELCOME_APP_NAME'),
             'key' => env('WELCOME_APP_KEY'),
             'secret' => env('WELCOME_APP_SECRET'),
-            'path' => env('WELCOME_APP_PATH'),
-            'capacity' => null,
             'enable_client_messages' => false,
             'enable_statistics' => true,
         ],
